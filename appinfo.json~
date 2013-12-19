@@ -1,0 +1,25 @@
+{
+  "uuid": "3de4171e-800f-4c4b-a6d4-9ce359278b0c",
+  "shortName": "bar_pour",
+  "longName": "bar_pour",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+ "resources": {
+    "media": [
+
+      {
+	
+        "type": "png",
+        "name": "IMAGE_LEFT_ICON",
+        "file": "images/left_icon.png"
+      }
+    ]
+  }
+}
